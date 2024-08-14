@@ -43,13 +43,15 @@ When a user inputs text and clicks the **"Enter"** button, the question is passe
 
 **How to Run**
 
-Clone the repository.
-Install the necessary dependencies via pip install -r requirements.txt.
-Set your environment variables (OpenAI_Api_Key, Langchain_Ap_Key).
-Run the Streamlit application using streamlit run app.py.
-Open the provided local URL in your web browser.
-Ask your questions and get real-time NLP expert answers!
-Future Enhancements
-Add user authentication.
-Enhance the UI for better user experience.
-Implement more advanced NLP features.
+1. Clone the repository.
+2. Install the necessary dependencies via pip install -r requirements.txt.
+3. Set your environment variables (OpenAI_Api_Key, Langchain_Ap_Key).
+4. Run the Streamlit application using streamlit run app.py.
+5. Open the provided local URL in your web browser.
+6. Ask your questions and get real-time NLP expert answers!
+7. Future Enhancements
+8. Add user authentication.
+9. Enhance the UI for better user experience.
+10. Implement more advanced NLP features.
+
+
