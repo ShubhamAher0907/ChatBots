@@ -1,4 +1,4 @@
-****NLP ChatBot with LangChain and Streamlit****
+# NLP ChatBot with LangChain and Streamlit
 This project showcases the development of an NLP ChatBot using LangChain, OpenAI's GPT-3.5-turbo model, and Streamlit. The chatbot allows users to ask questions and receive expert NLP responses in real-time.
 
 **Project Overview**
