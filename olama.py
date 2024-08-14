@@ -5,7 +5,7 @@ import os
 from langchain_community.llms import Ollama
 
 
-os.environ["Langchain_Ap_Key"]="ls__1b9ad6adfb1c4292935984c9d973bf86"
+os.environ["Langchain_Ap_Key"]="******************************"
 os.environ["LANGCHAIN_TRACING_V2"]="true"
 
 
