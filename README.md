@@ -5,13 +5,16 @@ This project showcases the development of an NLP ChatBot using LangChain, OpenAI
 
 This application uses the following technologies:
 
-**LangChain:** A framework for developing applications powered by language models. It enables the chaining of various components like prompts, models, and output parsers.
+**LangChain:** A framework for developing applications powered by language models. It enables the chaining of various     
+               components like prompts, models, and output parsers.
+               
 **OpenAI GPT-3.5-turbo:** The language model used to generate responses.
+
 **Streamlit:** A Python framework for building web applications, used here to create a simple frontend for the chatbot.
 
 **Key Components**
-Environment Variables:
 
+Environment Variables:
 **OpenAI_Api_Key:** Your OpenAI API key.
 **Langchain_Ap_Key:** Your LangChain API key.
 **Langchain_Tracing_V2:** Set to true for enabling tracing in LangChain.
